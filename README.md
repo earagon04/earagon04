@@ -21,7 +21,6 @@
 ### 🚀 ¿En qué ando ahora?
 - 🔭 Trabajando en mis proyectos de la facultad y desarrollo personal.
 - 🌱 Profundizando en arquitecturas y optimización de bases de datos.
-- ⚡ **Fun fact:** Cuando me alejo de la pantalla, disfruto de armar y probar distintas combinaciones de switches y keycaps en teclados mecánicos.
 
 ### 📫 Cómo contactarme:
 [LinkedIn](https://www.linkedin.com/in/earagon04) | [Email](mailto:earagon@fi.uba.ar)
