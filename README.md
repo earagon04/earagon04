@@ -24,6 +24,6 @@
 ### 📫 Cómo contactarme:
 [LinkedIn](www.linkedin.com/in/earagon04) | [Email](earagon@fi.uba.ar)
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)](https://github.com/earagon04)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=earagon04&show_icons=true&theme=tokyonight)](https://github.com/earagon04)
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)](https://github.com/earagon04)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=earagon04&layout=compact&theme=tokyonight)](https://github.com/earagon04)
