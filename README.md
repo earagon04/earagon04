@@ -15,15 +15,20 @@
 **Entorno y OS:**
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-%2348B9C7.svg?style=for-the-badge&logo=pop!_os&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-17181A?style=for-the-badge&logo=cursor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### 🚀 ¿En qué ando ahora?
 - 🔭 Trabajando en mis proyectos de la facultad y desarrollo personal.
 - 🌱 Profundizando en arquitecturas y optimización de bases de datos.
+- ⚡ **Fun fact:** Cuando me alejo de la pantalla, disfruto de armar y probar distintas combinaciones de switches y keycaps en teclados mecánicos.
 
 ### 📫 Cómo contactarme:
-[LinkedIn](www.linkedin.com/in/earagon04) | [Email](earagon@fi.uba.ar)
+[LinkedIn](https://www.linkedin.com/in/earagon04) | [Email](mailto:earagon@fi.uba.ar)
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=earagon04&show_icons=true&theme=tokyonight)](https://github.com/earagon04)
+<br>
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=earagon04&layout=compact&theme=tokyonight)](https://github.com/earagon04)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=earagon04&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earagon04&layout=compact&theme=tokyonight" alt="Top Lenguajes" />
+</div>
